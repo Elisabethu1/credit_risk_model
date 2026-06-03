@@ -87,15 +87,15 @@ This represents the expected monetary loss adjusted for recovery assumptions.
 
 📊 Model Evaluation Visualizations
 📉 ROC Curve
-<p align="center"> <img src="images/roc_curve.png" width="500"/> </p>
+<p align="center"> <img src="C:/Users/elisabethung/Pictures/Screenshots/ROC Curve.png" width="500"/> </p>
 Measures classification performance across thresholds
 Model shows near-perfect separation
 📊 Confusion Matrix
-<p align="center"> <img src="images/confusion_matrix.png" width="450"/> </p>
+<p align="center"> <img src="C:/Users/elisabethung/Pictures/Screenshots/confusion_matrix.png" width="450"/> </p>
 Very few misclassifications
 High predictive accuracy
 🔥 Feature Importance
-<p align="center"> <img src="images/feature_importance.png" width="500"/> </p>
+<p align="center"> <img src="C:/Users/elisabethung/Pictures/Screenshots/feature_importance.png" width="500"/> </p>
 
 Key drivers of default risk:
 
@@ -104,7 +104,7 @@ Debt-to-income ratio (+ risk)
 FICO score (– risk)
 Years employed (– risk)
 📦 Default Distribution
-<p align="center"> <img src="images/default_distribution.png" width="450"/> </p>
+<p align="center"> <img src="C:/Users/elisabethung/Pictures/Screenshots/default_graph.png" width="450"/> </p>
 Balanced dataset improves model stability
 Clear separation between classes
 🔍 Key Insights
